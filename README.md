@@ -38,19 +38,17 @@
 
 
 ## Outputs:
+<img src="https://user-images.g![home](https://user-images.githubusercontent.com/69311756/201354063-430628d9-0d14-48db-becb-cdb979389974.jpg" width="600">
 
-![splash](https://user-images.g![home](https://user-images.githubusercontent.com/69311756/201354063-430628d9-0d14-48db-becb-cdb979389974.jpg)
+<img src="https://user-images.githubusercontent.com/69311756/201354133-71a34287-0086-4680-b815-401a0736165a.jpg" width="600">
 
-![home](https://user-images.githubusercontent.com/69311756/201354133-71a34287-0086-4680-b815-401a0736165a.jpg)
+<img src="https://user-images.githubusercontent.com/69311756/201354197-f47ac08e-31e6-4d88-a7a6-7dfdaa9f5f08.jpg" width="600">
 
-![details](https://user-images.githubusercontent.com/69311756/201354197-f47ac08e-31e6-4d88-a7a6-7dfdaa9f5f08.jpg)
+<img src="https://user-images.githubusercontent.com/69311756/201354238-78fe7038-be41-4593-921e-40e5e39ade54.jpg" width="600">
 
-![edit](https://user-images.githubusercontent.com/69311756/201354238-78fe7038-be41-4593-921e-40e5e39ade54.jpg)
+<img src="https://user-images.githubusercontent.com/69311756/201354266-0bc70a41-2356-4287-8d57-967cb09e77b5.jpg" width="600">
 
-![add_black](https://user-images.githubusercontent.com/69311756/201354266-0bc70a41-2356-4287-8d57-967cb09e77b5.jpg)
-
-![editKey](https://user-images.githubusercontent.com/69311756/201354290-786ad3bd-61de-4adf-872a-26bf91b7884f.jpg)
-
+<img src="https://user-images.githubusercontent.com/69311756/201354290-786ad3bd-61de-4adf-872a-26bf91b7884f.jpg" width="600">
 
 
 
